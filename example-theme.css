@@ -1,0 +1,40 @@
+/* we import the file */
+@import url("view-source:https://roblox.cat/assets/css/www-core.css");
+/* very large list of customizable shit! Enjoy */
+:root {
+--green: #0cb20c;
+--green-hover: #007001;
+--blue: #1851a4;
+--blue-hover: #0a2142;
+--blue-light: #87a4ca;
+--blue-dark: #1b1f24;
+--blue-dark-hover: #13161a;
+--blue-dark-light: #363e47;
+--footer: #191919;
+--black: #292929;
+--black-hover: #272727;
+--black-light: #202020;
+--button: var(--blue);
+--button-hover: var(--blue-hover);
+--navbar: var(--blue);
+--navbar-hover: var(--blue-hover);
+--card-secondary: var(--blue-dark);
+--card-secondary-hover: var(--blue-dark-hover);
+--card-secondary-border: var(--blue-dark-light);
+--modal: var(--blue-dark);
+--modal-hover: var(--blue-dark-hover);
+--modal-border: var(--blue-dark-light);
+--nav-item-hover: var(--blue);
+--nav-item-light: #206ee3;
+--hrvr: var(--blue-dark-light);
+--alert-bg-1: #e38314;
+--alert-bg-2: #e38314;
+--alert-bg-maint-1: #000000;
+--alert-bg-maint-2: #000000;
+--alert-bg-info-1: #008ab8;
+--alert-bg-info-2: #008ab8;
+--alert-bg-danger-1: #a81313;
+--alert-bg-danger-2: #a81313;
+--body-text: #fff;
+--body: #1d2126;
+}
